@@ -1,0 +1,47 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: Verdana;
+}
+
+body{
+    background-color: gainsboro;
+}
+
+.principal{
+    background-color: white;
+    margin: 10px auto;
+    width: 80%;
+    border: 1px solid black;
+    padding: 20px;
+}
+div.imagen{
+    border: 1px solid gainsboro;
+}
+div.imagen img{
+    max-width: 100%;
+    margin-bottom: 10px;
+}
+table{
+    width: 100%;
+    text-align: center;
+}
+tr.titulo td{
+    border-top: 2px solid rgb(12, 21, 150);
+    border-bottom: 2px solid rgb(12, 21, 150);
+
+}
+td{
+    border-bottom: 1px solid rgb(134, 125, 125);
+    padding:10px;
+}
+td:hover{
+    background-color: rgb(165, 154, 194);
+}
+.secundario{
+    background-color: white;
+    margin: 10px auto;
+    width: 80%;
+    border: 1px solid black;
+    padding: 20px;
+}
